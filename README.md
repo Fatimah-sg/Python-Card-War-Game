@@ -41,7 +41,7 @@ Players can:
 2. Follow on-screen instructions to play.
 
 ## Screenshot
-![Program Screenshot](card_game_screenshot.png)
+![Program Screenshot](Card-Game-Screenshot.png)
 
 ## Project Structure
 Python-Card-War-Game/
