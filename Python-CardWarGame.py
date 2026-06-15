@@ -1,3 +1,13 @@
+"""
+Python Card War Game
+Author: Fatimah Sajjadali
+Version: 1.0.0
+Description:
+A Python implementation of the classic card war game with special cards,
+WAR battles, scoring, saving/loading game state using JSON, and a full
+round-based game loop.
+"""
+
 import random # module that allows to shuffle and pick cards randomly
 import json # module that allows to save the game and load it later
 
